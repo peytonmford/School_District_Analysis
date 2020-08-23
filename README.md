@@ -9,7 +9,7 @@ The district summary did not change, as you can see on the images taken. The rea
 ###### After School District
 ![After_District](Resources/After_District.png)
 ### School Summary
-The school summary budgets were the biggest change. The total budget increased, thus individual school's budgets were increased. 
+The school summary budgets were the biggest change. The total budget increased, thus individual school's budgets were increased. We were able to categorize the school's size to allocate more money to the bigger sized schools, to increase the budget per student. Replacing the ninth graders scores at Thomas High School dramatically decreases THS' scores. 
 ###### Before School Summary
 ![Before_School](Resources/Before_School.png)
 ###### After School Summary
