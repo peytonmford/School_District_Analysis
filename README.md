@@ -9,8 +9,10 @@ The district summary did not change, as you can see on the images taken. The rea
 ###### After School District
 ![After_District](Resources/After_District.png)
 ### School Summary
-The school summary budgets were the biggest change. The total budget increased, thus individual school's budgets were increased. We were able to categorize the school's size to allocate more money to the bigger sized schools, to increase the budget per student. Replacing the ninth graders scores at Thomas High School dramatically decreases THS' scores. 
+The school summary budgets were the biggest change. The total budget increased, thus individual school's budgets were increased. We were able to categorize the school's size to allocate more money to the bigger sized schools, to increase the budget per student. Replacing the ninth graders scores at Thomas High School dramatically decreases THS' scores. Because they had to replace the ninth graders score, it made the ranking of Thomas High School go down in rank. In terms of grades, Thomas High School is not the bottom ranked of the math and reading scores based on grades. Because the grades have lowered, the spending based on grades have gone down for Thomas High. For school size, I think they are still average, even without the ninth graders. 
 ###### Before School Summary
 ![Before_School](Resources/Before_School.png)
 ###### After School Summary
 ![After_School](Resources/After_School.png)
+## Summary
+The biggest changes
