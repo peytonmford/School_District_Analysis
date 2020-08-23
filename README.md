@@ -15,4 +15,4 @@ The school summary budgets were the biggest change. The total budget increased, 
 ###### After School Summary
 ![After_School](Resources/After_School.png)
 ## Summary
-The biggest changes
+The biggest changes after adding the NaN's to the ninth graders at Thomas High are the school's size went decreased (decreasing the budget), the budget per student decreased due to the total students going down, the averages for both math and reading for Thomas High, and the overall passing percentage decreased.
