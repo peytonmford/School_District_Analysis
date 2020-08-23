@@ -4,4 +4,4 @@ The purpose of this analysis was to show the school board all the schools statis
 ## Results
 ### District Summary
 The district summary did not change, as you can see on the images taken. 
-/Resources/Before
+![Before District] /Resources/Before District.png
